@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,PROGRAM-ID=1, 
+http://123.29.129.200/v5live.m3u8?c=vstv318&q=medium&deviceType=9&userId=15&deviceId=7337887&type=tv&rkey=02031356Cp2YZPTN&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=NA&rbk=20316270137&pnode=172.16.29.9&_fwobw=1200000&_fwtbw=1200000
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,PROGRAM-ID=1, 
+http://123.29.129.200/v5live.m3u8?c=vstv318&q=medium&deviceType=9&userId=15&deviceId=7337887&type=tv&rkey=02031356Cp2YZPTN&p=0&zn=netott&ctl=10.108&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=NA&rbk=20316270137&pnode=172.16.29.9&_fwobw=1800000&_fwtbw=1200000
