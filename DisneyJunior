@@ -1,0 +1,3 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,PROGRAM-ID=1,
+http://s8196.cdn.mytvnet.vn/v5live.m3u8?c=vstv380&q=high&deviceType=2&userId=5&deviceId=7334315&type=tv&rkey=02041241HgA57fsu&p=0&zn=netott&ctl=3.30&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg11&location=DNG&rbk=20316270137&pnode=172.16.143.84
