@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1200000,PROGRAM-ID=1, 
-http://123.29.129.195/v5live.m3u8?c=vstv042&q=medium&deviceType=9&userId=15&deviceId=7337887&type=tv&rkey=02041840l9drt0rU&p=0&zn=netott&ctl=3.31&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=NA&rbk=20316270135&pnode=172.16.143.84
+http://123.29.128.196/v5live.m3u8?c=vstv042&q=medium&deviceType=9&userId=15&deviceId=7337887&type=tv&rkey=02051505oSbvuhoi&p=0&zn=netott&ctl=3.31&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=NA&rbk=20316270134&pnode=172.16.143.84&_fwobw=1200000&_fwtbw=1200000
 #EXT-X-STREAM-INF:BANDWIDTH=1800000,PROGRAM-ID=1, 
-http://123.29.129.195/v5live.m3u8?c=vstv042&q=high&deviceType=9&userId=15&deviceId=7337887&type=tv&rkey=02041840l9drt0rU&p=0&zn=netott&ctl=3.31&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=NA&rbk=20316270135&pnode=172.16.143.84
+http://123.29.128.196/v5live.m3u8?c=vstv042&q=medium&deviceType=9&userId=15&deviceId=7337887&type=tv&rkey=02051505oSbvuhoi&p=0&zn=netott&ctl=3.31&sl=6&drmsrv=drmv.mytvnet.vn&pkg=pkg0&profiles=high,medium&location=NA&rbk=20316270134&pnode=172.16.143.84&_fwobw=1800000&_fwtbw=1200000
